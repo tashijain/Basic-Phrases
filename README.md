@@ -2,7 +2,7 @@
 
 ### Features
  - Basic Android app that displays 8 basic everyday use phrases as buttons in English. 
- - When the user presses any of the buttons a respective French audio is played which is tranlation of that English phrase
+ - When the user presses any of the buttons, a French audio is played which is the tranalation of the respective English phrase
 
 Developed using Android Studio in Java.
 
